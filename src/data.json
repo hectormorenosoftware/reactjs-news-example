@@ -1,0 +1,227 @@
+{
+  "status": "ok",
+  "totalResults": 48385,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman",
+      "title": "Android 13 Tries to Make Privacy and Security a No-Brainer",
+      "description": "With its latest mobile OS update, Google aims to simplify the adoption of Android's protective features for users and developers alike.",
+      "url": "https://www.wired.com/story/android-13-privacy-security-update/",
+      "urlToImage": "https://media.wired.com/photos/627b05680973df5979fdbdf8/191:100/w_1280,c_limit/Pixel-7-and-Pixel-7-Pro-SOURCE-Google.jpg",
+      "publishedAt": "2022-05-11T19:33:40Z",
+      "content": "Android already limited how much access apps had to the clipboard and notified users when an app grabbed something from it. But Android 13 adds another layer by automatically deleting whatever is in … [+3881 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Lucas Ropek",
+      "title": "Google Adds Virtual Credit Cards for Google Pay",
+      "description": "Google will roll out virtual credit cards for Pay on Chrome and Android later this year, in an effort to better protect users’ financial information during online transactions.Read more...",
+      "url": "https://gizmodo.com/google-pay-virtual-credit-debit-card-visa-american-expr-1848907510",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8bda140c9c13f9f4b6dac1202a93ce60.jpg",
+      "publishedAt": "2022-05-11T18:00:00Z",
+      "content": "Google will roll out virtual credit cards for Pay on Chrome and Android later this year, in an effort to better protect users financial information during online transactions.\r\nVirtual cards are rand… [+1883 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mariella Moon",
+      "title": "YouTube Go will no longer be available starting this August",
+      "description": "YouTube Go is going away for good in August. The YouTube Team has announced that it's retiring the lightweight alternative to its main app, mainly because it has become unnecessary over the years. YouTube developed the Go application for users where connectiv…",
+      "url": "https://www.engadget.com/youtube-go-august-sunset-052406795.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/b06c7040-aab2-11ec-b672-7fc18ee1485b",
+      "publishedAt": "2022-05-04T05:24:06Z",
+      "content": "YouTube Go is going away for good in August. The YouTube Team has announced that it's retiring the lightweight alternative to its main app, mainly because it has become unnecessary over the years. Yo… [+1328 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jessica Conditt",
+      "title": "Google brings transcripts and auto-translated captions to YouTube on mobile",
+      "description": "Google is rolling out auto-translated video captions for YouTube on mobile devices, with support for 16 languages. The feature is live now. Additionally, YouTube video transcripts are now available to all Android and iOS users.This is all part of Google's wor…",
+      "url": "https://www.engadget.com/youtube-auto-captions-mobile-transcript-ios-android-173448101.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/d9197ab0-d14f-11ec-bfd9-fd035a2c7e0f",
+      "publishedAt": "2022-05-11T17:34:48Z",
+      "content": "Google is rolling out auto-translated video captions for YouTube on mobile devices, with support for 16 languages. The feature is live now. Additionally, YouTube video transcripts are now available t… [+725 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Richard Lawler",
+      "title": "Pixel 6 owners say their phones are automatically rejecting some incoming calls",
+      "description": "Multiple Google Pixel owners have reported their phones will list incoming calls as “declined,” without ringing or notifying them. The callers go straight to voicemail, and checking Do Not Disturb settings hasn’t helped.",
+      "url": "https://www.theverge.com/2022/4/18/23030139/pixel-6-phone-calls-straight-to-voicemail-declined-bug",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qABpLXyG2VG7tQJVwK5XnXipoBU=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22957771/akrales_211020_4802_0403.jpg",
+      "publishedAt": "2022-04-18T23:14:49Z",
+      "content": "Photo by Amelia Holowaty Krales\r\n\n \n\n Odd issues have popped up following software updates Google’s released for its latest flagship phones frequently enough for us to look into why Android 12 has be… [+1320 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Kris Holt",
+      "title": "End-to-end encryption is coming to Google Messages group texts",
+      "description": "A year after Google switched on end-to-end encryption (E2EE) for all Android users in the Messages app, it's bringing those protections to group chats. The expanded feature will be available as an open beta later this year.Developing...Follow all of the news …",
+      "url": "https://www.engadget.com/android-e2ee-group-chats-184610825.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/e3e3f490-d157-11ec-afd6-5c7bfb71cdc7",
+      "publishedAt": "2022-05-11T18:46:10Z",
+      "content": "Almost a year after Google switched on end-to-end encryption (E2EE) for one-on-one chats in the Messages app, it says it's bringing those protections to group texts. The expanded feature will be avai… [+799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "Now You Can Check How an Android App is Using Your Information",
+      "description": "The Google Play Data Safety section has started to roll out in the Play Store. The new area of the Play Store will show you the kind of data an Android app is accessing and whether it’s sharing it with third parties. It’ll also help you determine an app’s sec…",
+      "url": "https://gizmodo.com/google-play-data-safety-section-says-how-android-uses-u-1848840632",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9e6c14fff9d4cdf0ab83dce6336b4603.jpg",
+      "publishedAt": "2022-04-26T15:30:00Z",
+      "content": "The Google Play Data Safety section has started to roll out in the Play Store. The new area of the Play Store will show you the kind of data an Android app is accessing and whether its sharing it wit… [+2479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Warren Buffett Says He Wouldn't Take All the Bitcoin in the World for $25",
+      "description": "Warren Buffett has always been a bitcoin skeptic. But the billionaire investor had his most harsh words yet for the cryptocurrency over the weekend. Buffett made it clear that his opposition to crypto has nothing to do with whether people can make money tradi…",
+      "url": "https://gizmodo.com/warren-buffett-all-bitcoin-world-25-dollars-assets-valu-1848866967",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bbc389f90510758bf8f4131a7e2cbacd.png",
+      "publishedAt": "2022-05-02T11:30:00Z",
+      "content": "Warren Buffett has always been a bitcoin skeptic. But the billionaire investor had his most harsh words yet for the cryptocurrency over the weekend. Buffett made it clear that his opposition to crypt… [+2297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Chip",
+      "title": "Top 10 trending phones of week 19",
+      "description": "Several high-profile announcements shook up the order in our trending chart, but none more so than Sony's latest flagship - the Xperia 1 IV, which took the top spot.\n\nIt pushed the Samsung Galaxy A53 to second, while the Galaxy S22 Ultra rounded up the podium…",
+      "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_19-news-54317.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-952x498w6/gsmarena_001.jpg",
+      "publishedAt": "2022-05-16T01:11:01Z",
+      "content": "Several high-profile announcements shook up the order in our trending chart, but none more so than Sony's latest flagship - the Xperia 1 IV, which took the top spot.\r\nIt pushed the Samsung Galaxy A53… [+771 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jon Fingas",
+      "title": "Apple discontinues its last iPod",
+      "description": "Apple just marked the end to one of the most important product lines in its history. The company has discontinued the iPod touch, which will only be available in stores \"while supplies last.\" Not surprisingly, the company maintained that the \"spirit of iPod\" …",
+      "url": "https://www.engadget.com/apple-discontinues-ipod-touch-161433001.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/2ce93ac0-d07b-11ec-9ca7-fe68bbf70a1f",
+      "publishedAt": "2022-05-10T16:14:33Z",
+      "content": "Apple just marked the end to one of the most important product lines in its history. The company has discontinued the iPod touch, which will only be available in stores \"while supplies last.\" Not sur… [+146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Jake Peterson",
+      "title": "You Can Finally Fix Your Own Apple Devices (With Apple’s Help)",
+      "description": "If your iPhone’s display breaks, or the battery goes bust, your first instinct might be to make an appointment at Apple’s Genius Bar. For the longest time, that’s exactly the way Apple wanted it. Times have changed, however: People want to repair their own de…",
+      "url": "https://lifehacker.com/you-can-finally-fix-your-own-apple-devices-with-apple-1848847963",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fd5a27f5802905d72abd95fa0a9b8283.jpg",
+      "publishedAt": "2022-04-27T17:00:00Z",
+      "content": "If your iPhones display breaks, or the battery goes bust, your first instinct might be to make an appointment at Apples Genius Bar. For the longest time, thats exactly the way Apple wanted it. Times … [+5219 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Mitchell Clark",
+      "title": "Second Apple Store officially files petition to hold union election",
+      "description": "Apple employees at a retail store in Maryland have filed a petition with the labor board to hold a union election, becoming the second location to have done so.",
+      "url": "https://www.theverge.com/2022/5/4/23056187/apple-second-store-union-election-petition-retail",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5t2FKeQ9Vtm-TPONrZqKrPlU-FA=/0x104:2880x1612/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23436618/R063.png",
+      "publishedAt": "2022-05-04T16:51:34Z",
+      "content": "AppleCORE wants to organize a retail location in Maryland\r\nEmployees at Apples Towson Town Center may soon be voting on whether to unionize.\r\nImage: Apple\r\nEmployees at Apples Towson Town Center stor… [+1484 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Steve Dent",
+      "title": "Apple loses director of machine learning over its office return policy",
+      "description": "Last week, a group of Apple employees wrote an open letter criticizing the company's hybrid work-from-home policy, which requires employees to be at the office three days a week starting May 23rd. Now, Apple has lost director of machine learning Ian Goodfello…",
+      "url": "https://www.engadget.com/an-apple-machine-learning-director-resigned-over-its-office-return-policy-115040691.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-12/b4c77e50-5e45-11ec-97eb-d4c0e86e5f90",
+      "publishedAt": "2022-05-10T11:50:40Z",
+      "content": "Last week, a group of Apple employees wrote an open letter criticizing the company's hybrid work-from-home policy, which requires employees to be at the office three days a week starting May 23rd. No… [+1644 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "All the Hardware Google Announced at I/O 2022",
+      "description": "We've got a first look at the Pixel Watch, details on the Pixel 6A and Pixel Buds Pro, a peek at the Pixel 7 series, and even an Android-powered Pixel Tablet.",
+      "url": "https://www.wired.com/story/google-io-2022-pixel-6a-pixel-watch-pixel-buds-pro-pixel-7-pixel-tablet/",
+      "urlToImage": "https://media.wired.com/photos/627af5ce0973df5979fdbdf3/191:100/w_1280,c_limit/Pixel-Portfolio-I_O-2022-SOURCE-Google-Gear.jpg",
+      "publishedAt": "2022-05-11T18:54:13Z",
+      "content": "Every spring, Google has shown off some hardware at its annual software event, Google I/O. A gift-wrapped box in a sea of virtual gift cards, if you will.\r\nBut at this year's developer's conference, … [+2514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Keza MacDonald",
+      "title": "Nintendo Switch OLED review – a luxury upgrade to a brilliant console",
+      "description": "With its larger, brighter display and array of useful updates, this sleek new version of the Switch is expensive but desirableI will be for ever grateful to the Nintendo Switch for saving my sanity during the two most trying periods of my life: my first year …",
+      "url": "https://amp.theguardian.com/games/2021/oct/08/nintendo-switch-oled-review-a-luxury-upgrade-to-a-brilliant-console",
+      "urlToImage": "https://i.guim.co.uk/img/media/55723240c6b4b0eddc28d5bbb7db09efc7ab7811/1317_654_7143_4286/master/7143.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11d423b4b4322c9a1bca243abd4d8caa",
+      "publishedAt": "2021-10-08T14:39:51Z",
+      "content": "I will be for ever grateful to the Nintendo Switch for saving my sanity during the two most trying periods of my life: my first year of parenthood, during which I learned to breastfeed lying down so … [+3762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ari Notis",
+      "title": "You're Right, There Really Are More Games Than Ever",
+      "description": "Earlier this summer, I read a take—not naming names, as I’m not in the interest of shaming specific people—bemoaning how dry 2021’s video game release calendar is. I have just one thing to say in response: Hahahahahaha [deep breath] hahahahahaha. Also, the nu…",
+      "url": "https://kotaku.com/youre-right-there-really-are-more-games-than-ever-1847825577",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/505ef28c5de92de5d86ce9199a0721d6.jpg",
+      "publishedAt": "2021-10-08T14:30:00Z",
+      "content": "Earlier this summer, I read a takenot naming names, as Im not in the interest of shaming specific peoplebemoaning how dry 2021s video game release calendar is. I have just one thing to say in respons… [+2372 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Steve Dent",
+      "title": "Apple opens its Detroit Developer Academy to 100 students",
+      "description": "Apple has opened its Developer Academy in Detroit, first announced early this year as part of its Racial Equity and Justice initiative. The project, done in collaboration with Michigan State University (MSU), has welcomed its first 100 students aged 18 to 60 …",
+      "url": "https://www.engadget.com/apple-has-opened-its-detroit-developer-academy-to-100-students-080721814.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/94f7fea0-2809-11ec-97da-18d4034da313",
+      "publishedAt": "2021-10-08T08:07:21Z",
+      "content": "Apple has opened its Developer Academy in Detroit, first announced early this year as part of its Racial Equity and Justice initiative. The project, done in collaboration with Michigan State Universi… [+906 chars]"
+    }
+  ]
+}
