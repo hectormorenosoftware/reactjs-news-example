@@ -1,6 +1,0 @@
-/* 
-X-Frame-Options: DENY 
-X-XSS-Protection: 1; mode=block 
-Referrer-Policy: no-referrer 
-X-Content-Type-Options: nosniff
-Expires: Wed, 11 Apr 2021 07:28:00 GMT
