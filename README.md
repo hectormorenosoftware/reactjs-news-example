@@ -9,4 +9,4 @@ npm start
 To build run
 npm run build
 
-You can see this website through the url below: https://chimerical-hotteok-64c18a.netlify.app/
+https://tangerine-pudding-fe920e.netlify.app/#/
