@@ -3,7 +3,7 @@ import { withRouter } from "react-router-dom";
 
 import Card from "./Card";
 import data from "../data.json";
-import song from "./audio/ocean.mp3";
+import CNNLogo from "../images/cnnlogo.png";
 
 class News extends React.PureComponent {
   render() {
@@ -11,11 +11,11 @@ class News extends React.PureComponent {
 
     return (
       <div>
-        <audio autoPlay>
-          <source src={song} type="audio/mp3" />
-        </audio>
         <div className="new-flex-box">
-          <h1 className="news-app-title">CNN Technology</h1>
+          <img
+            src={CNNLogo}
+            style={{ width: "70px", height: "70px", padding: "25px" }}
+          />
         </div>
         <div className="Card-Flex-Box">
           <div className="CardGroup">
