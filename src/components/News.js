@@ -24,7 +24,7 @@ class News extends React.PureComponent {
                 <Card
                   key={index}
                   title={article.title}
-                  text="Click to see more"
+                  text="Click or tap to read more"
                   image={article.urlToImage}
                   url={article.url}
                 />
