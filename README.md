@@ -9,4 +9,4 @@ npm start
 To build run
 npm run build
 
-https://tangerine-pudding-fe920e.netlify.app/#/
+https://tangerine-pudding-fe920e.netlify.app

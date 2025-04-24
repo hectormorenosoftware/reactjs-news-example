@@ -13,7 +13,8 @@
       "url": "https://www.macrumors.com/2025/03/28/instagram-new-fast-forward-feature/",
       "urlToImage": "https://images.macrumors.com/t/5uTtnN9sFarIGArnR_V5kOmf3io=/2250x/article-new/2021/03/Instagram-Feature-2.jpg",
       "publishedAt": "2025-03-28T11:12:11Z",
-      "content": "Instagram has introduced a new fast-forward feature for Reels that allows users to speed through videos by holding down on either edge of the screen. The action plays content at double speed, similar… [+1031 chars]"
+      "content": "Instagram has introduced a new fast-forward feature for Reels that allows users to speed through videos by holding down on either edge of the screen. The action plays content at double speed, similar… [+1031 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -26,22 +27,38 @@
       "url": "https://www.macrumors.com/2025/04/09/instagram-locked-reels/",
       "urlToImage": "https://images.macrumors.com/t/bsOSrB2b0Z3xDe1t2ZrWCPOfwik=/2000x/article-new/2025/04/instagram-locked-reel.jpg",
       "publishedAt": "2025-04-09T22:56:27Z",
-      "content": "Instagram seems to be testing locked reels that require viewers to enter a keyword or a code to be able to see the hidden content. It's a feature that creators could use to increase engagement or to … [+868 chars]"
+      "content": "Instagram seems to be testing locked reels that require viewers to enter a keyword or a code to be able to see the hidden content. It's a feature that creators could use to increase engagement or to … [+868 chars]",
+      "type": "tech news"
     },
-
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Brittany Vincent",
-      "title": "This Dell Desktop Just Launched, and It’s Already 72% Off Before Tariffs Hit",
-      "description": "Bring home a PC that can do it all and boost your productivity without spending an entire paycheck.",
-      "url": "https://gizmodo.com/this-dell-desktop-just-launched-and-its-already-72-off-before-tariffs-hit-2000589847",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/dellvostro.jpg",
-      "publishedAt": "2025-04-16T14:25:03Z",
-      "content": "Looking to upgrade your office setup without breaking the bank? Dell’s Vostro Tower combines business-class performance with professional reliability in a package designed for modern workplaces. Feat… [+2610 chars]"
+      "author": "Andrew Webster",
+      "title": "Nintendo is launching a news app",
+      "description": "Nintendo closed out today’s Direct with a surprise announcement: a news app that will keep players up to date on everything Nintendo. It’s called Nintendo Today, and it’ll be available on both iOS and Android. According to Shigeru Miyamoto, the app was design…",
+      "url": "https://www.theverge.com/news/637319/nintendo-today-news-app",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25590098/STK054_NINTENDO_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-03-27T14:50:40Z",
+      "content": "Its a busy time for the company.\r\nNintendo closed out todays Direct with a surprise announcement: a news app that will keep players up to date on everything Nintendo. Its called Nintendo Today, and i… [+1104 chars]",
+      "type": "android news"
     },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Dominic Preston",
+      "title": "Samsung’s Tab S10 FE tablets arrive with a $50 price hike",
+      "description": "Samsung has launched the Tab S10 FE and Tab S10 FE Plus, the latest in its midrange Android tablet line, but they cost $50 more than their predecessors. For the first time neither tablet has a direct equivalent in the standard Tab S10 series. The FE is the sm…",
+      "url": "https://www.theverge.com/news/641264/samsung-galaxy-tab-s10-fe-plus-size-specs-price-release-date",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Tab-S10-FE_Blue_Combo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-02T10:36:24Z",
+      "content": "The Tab S10 FE and FE Plus come in sizes that dont have equivalents in the main Tab S10 line.\r\nThe Tab S10 FE and FE Plus come in sizes that dont have equivalents in the main Tab S10 line.\r\nSamsung h… [+2167 chars]",
+      "type": "android news"
+    },
+
     {
       "source": {
         "id": null,
@@ -53,7 +70,8 @@
       "url": "https://gizmodo.com/the-best-gadgets-of-march-2025-2000582995",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Best-Gadgets-March2025.jpg",
       "publishedAt": "2025-03-31T20:00:08Z",
-      "content": "As a harsh remindereven though it feels like its been a decade since December, 2024we have only managed to muddle through three months of 2025. It’s been an awkward time to love tech. As both consume… [+4511 chars]"
+      "content": "As a harsh remindereven though it feels like its been a decade since December, 2024we have only managed to muddle through three months of 2025. It’s been an awkward time to love tech. As both consume… [+4511 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -66,7 +84,8 @@
       "url": "https://gizmodo.com/doge-cuts-deflate-noaas-balloon-network-putting-accurate-weather-forecasts-in-jeopardy-2000580887",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/03/weather-balloon.jpg",
       "publishedAt": "2025-03-26T14:45:28Z",
-      "content": "The National Weather Service is reducing the number of weather balloon launchesand thus, the amount of data collected from American skiesfollowing sweeping cuts to the National Oceanic and Atmospheri… [+2917 chars]"
+      "content": "The National Weather Service is reducing the number of weather balloon launchesand thus, the amount of data collected from American skiesfollowing sweeping cuts to the National Oceanic and Atmospheri… [+2917 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -79,7 +98,8 @@
       "url": "https://gizmodo.com/the-carcinisation-of-playstation-is-complete-say-hello-to-playstacean-2000579934",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Playstacean-Version-of-Sonys-PSOne-Console-Hero-.jpg",
       "publishedAt": "2025-03-25T11:00:37Z",
-      "content": "If you thought your PlayStation 5 already looks a little too animalistic with its massive whale fin-like console covers, perhaps you would enjoy a more explicitly aquatic Sony gaming machine. Playsta… [+3921 chars]"
+      "content": "If you thought your PlayStation 5 already looks a little too animalistic with its massive whale fin-like console covers, perhaps you would enjoy a more explicitly aquatic Sony gaming machine. Playsta… [+3921 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -92,7 +112,8 @@
       "url": "https://gizmodo.com/that-tweet-about-elon-musks-botched-penis-being-real-is-fake-2000583511",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/04/elon-musk-cpac-GettyImages-2200068719-copy.jpg",
       "publishedAt": "2025-04-01T17:15:03Z",
-      "content": "Did Ashley St. Clair, the MAGA influencer who says Elon Musk is the father of her child, confirm rumors that the billionaire oligarch had a “botched” penis enlargement surgery? There’s a screenshot o… [+4563 chars]"
+      "content": "Did Ashley St. Clair, the MAGA influencer who says Elon Musk is the father of her child, confirm rumors that the billionaire oligarch had a “botched” penis enlargement surgery? There’s a screenshot o… [+4563 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -105,7 +126,8 @@
       "url": "https://gizmodo.com/nintendo-may-avoid-a-switch-2-shortage-a-rarity-in-gaming-hardware-launches-2000581229",
       "urlToImage": "https://gizmodo.com/app/uploads/2024/12/Nintendo-Switch-OLED-1-1.jpg",
       "publishedAt": "2025-03-27T15:03:20Z",
-      "content": "The Nintendo Switch 2 is going to be a big launch. We can estimate that based on hype alone, but wondering how big the launch will be is asking the wrong question. The main consideration with the Swi… [+5289 chars]"
+      "content": "The Nintendo Switch 2 is going to be a big launch. We can estimate that based on hype alone, but wondering how big the launch will be is asking the wrong question. The main consideration with the Swi… [+5289 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -118,7 +140,8 @@
       "url": "https://gizmodo.com/amazon-has-cut-its-margin-on-the-mac-mini-m4-now-at-a-record-low-price-2000580704",
       "urlToImage": "https://gizmodo.com/app/uploads/2024/11/mac-mini-m4.jpg",
       "publishedAt": "2025-03-26T11:10:46Z",
-      "content": "Laptops get all the love, but they’re not always the superior option. Consider setting yourself up with an optimized desk space including multiple large monitors and a tactile mechanical keyboard and… [+1868 chars]"
+      "content": "Laptops get all the love, but they’re not always the superior option. Consider setting yourself up with an optimized desk space including multiple large monitors and a tactile mechanical keyboard and… [+1868 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -131,7 +154,8 @@
       "url": "https://gizmodo.com/humans-could-orbit-earths-poles-for-the-first-time-today-what-took-so-long-2000582235",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/03/SpaceX-Falcon9-Fram2.jpg",
       "publishedAt": "2025-03-31T13:45:41Z",
-      "content": "Launching rockets from the ground is one thing, but deciding on a route to follow around Earth is a different story. Earth has a set of specific orbits, and space missions travel around the planet on… [+3877 chars]"
+      "content": "Launching rockets from the ground is one thing, but deciding on a route to follow around Earth is a different story. Earth has a set of specific orbits, and space missions travel around the planet on… [+3877 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -144,7 +168,8 @@
       "url": "https://gizmodo.com/crowds-turn-out-across-the-u-s-for-tesla-takedown-protests-2000582579",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/03/GettyImages-2206922352.jpg",
       "publishedAt": "2025-03-29T23:23:17Z",
-      "content": "Hundreds of Tesla dealerships across the United States, Canada, and Europe saw protesters descend upon their lots on Saturday as part of a global day of action organized by the Tesla Takedown protest… [+4445 chars]"
+      "content": "Hundreds of Tesla dealerships across the United States, Canada, and Europe saw protesters descend upon their lots on Saturday as part of a global day of action organized by the Tesla Takedown protest… [+4445 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -157,7 +182,8 @@
       "url": "https://gizmodo.com/the-numbers-are-in-hurricane-helene-deadliest-in-u-s-since-katrina-2000580256",
       "urlToImage": "https://gizmodo.com/app/uploads/2024/11/hurricane-helene-goes-satellite.jpg",
       "publishedAt": "2025-03-25T15:45:45Z",
-      "content": "A report published this week by the National Hurricane Center revealed the brutal impact of Hurricane Helene, which hit the American Southeast in late September 2024. The center reports that Hurrican… [+2641 chars]"
+      "content": "A report published this week by the National Hurricane Center revealed the brutal impact of Hurricane Helene, which hit the American Southeast in late September 2024. The center reports that Hurrican… [+2641 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -170,7 +196,8 @@
       "url": "https://gizmodo.com/eastern-europe-wants-to-build-a-drone-wall-to-keep-out-russia-2000585247",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/04/GroundUAV.jpg",
       "publishedAt": "2025-04-04T19:20:41Z",
-      "content": "To defend against Russian aggression Eastern Europe is considering a drone wall. The idea is to use sensors, drones, and counter-drone systems arranged along Russias border to deter and destroy drone… [+4777 chars]"
+      "content": "To defend against Russian aggression Eastern Europe is considering a drone wall. The idea is to use sensors, drones, and counter-drone systems arranged along Russias border to deter and destroy drone… [+4777 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -183,7 +210,8 @@
       "url": "https://gizmodo.com/samsung-is-running-way-behind-on-its-android-15-update-2000589295",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Samsung-Galaxy-S25-One-UI_Hero.jpg",
       "publishedAt": "2025-04-15T12:50:16Z",
-      "content": "Samsung’s One UI 7, the next version of its mobile operating system based on Android 15, has been delayed for several of the company’s latest flagship devices, namely 2024’s Galaxy S24 series, the Z … [+2487 chars]"
+      "content": "Samsung’s One UI 7, the next version of its mobile operating system based on Android 15, has been delayed for several of the company’s latest flagship devices, namely 2024’s Galaxy S24 series, the Z … [+2487 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -196,7 +224,8 @@
       "url": "https://gizmodo.com/congress-is-investigating-23andmes-handling-of-personal-data-2000591556",
       "urlToImage": "https://gizmodo.com/app/uploads/2024/11/23andme-getty.jpg",
       "publishedAt": "2025-04-19T15:00:01Z",
-      "content": "Republican lawmakers associated with the House Committee on Energy and Commerce are probing the 23andMe bankruptcy out of concern for Americans’ DNA information.\r\nThe troubled genomics company has be… [+2501 chars]"
+      "content": "Republican lawmakers associated with the House Committee on Energy and Commerce are probing the 23andMe bankruptcy out of concern for Americans’ DNA information.\r\nThe troubled genomics company has be… [+2501 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -209,7 +238,8 @@
       "url": "https://gizmodo.com/the-hypershell-exoskeleton-is-so-good-at-climbing-cliffs-it-ruined-my-workout-2000580676",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Hypershell-Pro-X-Review-Hero-1.jpg",
       "publishedAt": "2025-03-29T13:00:48Z",
-      "content": "The hiking trail should be a serene place. Amid the sounds of water running tickling down a nearby stream and the rushing wind through the trees above, there comes a whirring noise. Its me. I am the … [+8343 chars]"
+      "content": "The hiking trail should be a serene place. Amid the sounds of water running tickling down a nearby stream and the rushing wind through the trees above, there comes a whirring noise. Its me. I am the … [+8343 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -222,33 +252,163 @@
       "url": "https://gizmodo.com/nintendo-is-bringing-us-kicking-and-screaming-into-the-80-game-era-with-the-switch-2-2000584828",
       "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Nintendo-Switch-2-Hands-On-2.jpg",
       "publishedAt": "2025-04-03T19:15:02Z",
-      "content": "Nintendo did not offer a price for its Switch 2 during its hour-long showcase. Instead, customers found out through the grapevine that the console would cost $450. But for many, the real eye-watering… [+6416 chars]"
+      "content": "Nintendo did not offer a price for its Switch 2 during its hour-long showcase. Instead, customers found out through the grapevine that the console would cost $450. But for many, the real eye-watering… [+6416 chars]",
+      "type": "tech news"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Molly Higgins",
+      "title": "The Best Cat Toys for Your Furry Friend (2025)",
+      "description": "Based on years of testing with our cats, these are our favorite WIRED-approved, tech-y cat toys and scratchers.",
+      "url": "https://www.wired.com/story/best-cat-toys/",
+      "urlToImage": "https://media.wired.com/photos/67eef74bea54cfc0699557bc/191:100/w_1280,c_limit/Favorite%20Cat%20Toys%20Reviewer%20Collage%2004032025.jpg",
+      "publishedAt": "2025-04-11T12:39:00Z",
+      "content": "Cats are beautiful, interesting, weird creatures. They're also very picky. Finding toys that they'll actually play with is toughespecially with the sheer oversaturation of the pet market today. Cats … [+11333 chars]",
+      "type": "tech news"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "CATL’s new EV battery blows BYD’s speediest-charging cells out of the water",
+      "description": "CATL, the world’s largest battery manufacturer, previewed several breakthroughs in electric vehicle battery tech that is sure to wow EV makers across the world — even if the tech never makes it to the US. The company teased the innovations at an event in Shan…",
+      "url": "https://www.theverge.com/news/652762/catl-china-ev-battery-charging-sodium-ev-range",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/gettyimages-2210714319.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+      "publishedAt": "2025-04-21T19:13:39Z",
+      "content": "Robin Zeng, founder and chairman of CATL, on stage during the company’s Tech Day event in Shanghai, China, on Monday, April 21, 2025.\r\n\n\nCATL, the world’s largest battery manufacturer, previewed seve… [+2733 chars]",
+      "type": "tech news"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Chris Haslam, Jeremy White",
+      "title": "The Tech You Need to Level Up Your Humanity",
+      "description": "Advancements in computing and robotics are changing how people live. Here are our favorite prosthetics, smart glasses, exoskeletons, and fitness trackers.",
+      "url": "https://www.wired.com/gallery/gear-human-computing/",
+      "urlToImage": "https://media.wired.com/photos/67daf06c6070c070a57f61c7/191:100/w_2580,c_limit/WIRED-FOC-GEAR-1.jpg",
+      "publishedAt": "2025-03-28T10:00:00Z",
+      "content": "Motion capture technology tracks movements in the physical world and transfers them into the digital one. You typically need an expensive suit and dozens of sensors to do it, but with Mocopi, a surpr… [+376 chars]",
+      "type": "tech news"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Boone Ashworth",
+      "title": "US Tariffs Could Make Smartphones Dumber",
+      "description": "Donald Trump’s tariffs are likely to make tech manufacturers more risk averse—which could stymie innovation in favor of keeping costs down.",
+      "url": "https://www.wired.com/story/us-tariffs-could-make-smartphones-dumber/",
+      "urlToImage": "https://media.wired.com/photos/67f85c41cc20a27fa1643bf2/191:100/w_1280,c_limit/tariffs-smartphones-dumber-gear-2208839416.jpg",
+      "publishedAt": "2025-04-11T16:01:04Z",
+      "content": "Tariffs, another chaotic venture of the barely four-month-old Trump administration, are set to rollick every sector of the economy and nearly all the goods and services people use across the world. B… [+2761 chars]",
+      "type": "tech news"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "A shady, shuttered tech bootcamp may be sneaking back online",
+      "description": "A year and a half ago, the Consumer Financial Protection Bureau (CFPB) worked with state attorneys general to shut down Prehired, a shady tech sales bootcamp program that a court said deceptively saddled students with millions of dollars in loans. Now, as the…",
+      "url": "https://www.theverge.com/news/640674/prehired-fast-track-cfpb-bootcamp",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-01T16:25:00Z",
+      "content": "And the watchdog agency that oversaw it is being dismantled.\r\nAnd the watchdog agency that oversaw it is being dismantled.\r\nA year and a half ago, the Consumer Financial Protection Bureau (CFPB) work… [+6876 chars]",
+      "type": "tech news"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Brittany Vincent",
+      "title": "Google Just Took $200 Off the Pixel 9 Smartphone, No Trade-In Needed",
+      "description": "It's time you let that old, decrepit tech go and upgrade to the new hotness.",
+      "url": "https://gizmodo.com/google-just-took-200-off-the-pixel-9-smartphone-no-trade-in-needed-2000584137",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/gpixel9.jpg",
+      "publishedAt": "2025-04-03T16:15:32Z",
+      "content": "Need a new smartphone? It can feel a lot like needing a new laptop, camera, and phone all in one with all the features you have to shop around for. The line between smartphone and professional camera… [+2424 chars]",
+      "type": "tech news"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "US expands export blacklist to keep computing tech out of China",
+      "description": "The US has added 80 organizations and companies to a trading export blacklist in an effort to prevent China from acquiring computing technology for military purposes. The new restrictions announced by the US Department of Commerce’s Bureau of Industry and Sec…",
+      "url": "https://www.theverge.com/news/636277/us-chinese-export-restrictions-blacklist-80-companies",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_210430_1777_semiCon_0001_8e135b.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-03-26T13:37:26Z",
+      "content": "The Trump administration is imposing more restrictions to prevent advanced US chips from being used by foreign militaries.\r\nThe Trump administration is imposing more restrictions to prevent advanced … [+2474 chars]",
+      "type": "tech news"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode, Paresh Dave",
+      "title": "Google Is Once Again Deemed a Monopoly, This Time in Ad Tech",
+      "description": "The future of Google's advertising business is at stake after a federal judge found the company illegally monopolized parts of it.",
+      "url": "https://www.wired.com/story/judge-rules-google-ad-business-monopoly/",
+      "urlToImage": "https://media.wired.com/photos/68012ae9e48ff10dfc626702/191:100/w_1280,c_limit/Google-Ad-Lawsuit-Business-2210074784.jpg",
+      "publishedAt": "2025-04-17T18:07:22Z",
+      "content": "A federal judge ruled today that Google is a monopolist in some parts of the online advertising market, marking the second case in a year where the company was found to have violated US antitrust law… [+4284 chars]",
+      "type": "tech news"
     },
     {
       "source": {
         "id": null,
         "name": "Gizmodo.com"
       },
-      "author": "Ed Cara",
-      "title": "Ozempic and Similar Drugs Could Help Ward Off Dementia, Study Suggests",
-      "description": "A new review of clinical trial data finds evidence that GLP-1 drugs can meaningfully reduce dementia risk in people with type 2 diabetes.",
-      "url": "https://gizmodo.com/ozempic-and-similar-drugs-could-help-ward-off-dementia-study-suggests-2000586412",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Ozempic.jpg",
-      "publishedAt": "2025-04-08T16:15:08Z",
-      "content": "The case for Ozempic as a dementia buster is building. Research published this week has found that GLP-1 drugs are associated with a lower risk of dementia in people with type 2 diabetes.\r\nResearcher… [+3165 chars]"
+      "author": "Kyle Barr",
+      "title": "The Best Gadgets of March 2025",
+      "description": "March brought us new Macs, ultra-thin foldables, and even an exoskeleton. However, some of our most-anticipated tech for the month won't arrive until April.",
+      "url": "https://gizmodo.com/the-best-gadgets-of-march-2025-2000582995",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Best-Gadgets-March2025.jpg",
+      "publishedAt": "2025-03-31T20:00:08Z",
+      "content": "As a harsh remindereven though it feels like its been a decade since December, 2024we have only managed to muddle through three months of 2025. It’s been an awkward time to love tech. As both consume… [+4511 chars]",
+      "type": "tech news"
     },
     {
       "source": {
         "id": null,
         "name": "Gizmodo.com"
       },
-      "author": "Lucas Ropek",
-      "title": "Waymo’s Driverless Cars Revealed to Be Narcs as Cops Use Them to Probe Crimes",
-      "description": "Footage from robotaxis is the newest data source for law enforcement.",
-      "url": "https://gizmodo.com/waymos-driverless-cars-revealed-to-be-narcs-as-cops-use-them-to-probe-crimes-2000590426",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/06/9fe20eeb38a21bc72ce773264318f6de.jpg",
-      "publishedAt": "2025-04-17T12:50:02Z",
-      "content": "Well, that didn’t take long. Cops are now using videos recorded by Waymo self-driving cars to assist them in their investigations. If you live in a city where robotaxis are prevalent (i.e. San Franci… [+2913 chars]"
+      "author": "Kyle Barr",
+      "title": "You Should Buy Your Tech Now Before You Can’t Possibly Afford It",
+      "description": "If the Switch 2 delay proves anything, it’s that Trump tariffs mean your tech will be more scarce and cost a lot more.",
+      "url": "https://gizmodo.com/you-should-buy-your-tech-now-before-you-cant-possibly-afford-it-2000585502",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Nintendo-Switch-2-Donkey-Kong-Bananza-1.jpg",
+      "publishedAt": "2025-04-04T21:25:02Z",
+      "content": "All your favorite tech is soon going to hit the wall of tariffs implemented by President Donald Trump. Already, the tariffs are forcing Nintendo to revise its Switch 2 preorder timeline, potentially … [+4197 chars]",
+      "type": "tech news"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Black Mirror season 7 tugs at your heartstrings while skewering tech",
+      "description": "Black Mirror started out as a grim, dark, and nihilistic exploration of near-future tech. But with the tragic romance of âSan Juniperoâ in season 3, the anthology slowly started to shift its priorities. Early on, everything was bad: the technology and the…",
+      "url": "https://www.theverge.com/tv-reviews/646271/black-mirror-season-7-review",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Black_Mirror_n_S7_E5_00_08_53_02V2.png?quality=90&strip=all&crop=0%2C7.769098649841%2C100%2C84.461802700318&w=1200",
+      "publishedAt": "2025-04-10T12:46:04Z",
+      "content": "Black Mirror season 7 tugs at your heartstrings while skewering tech\r\nThe Netflix anthology is back, but its a little warmer this time around.\r\nBlack Mirror season 7 tugs at your heartstrings while s… [+5761 chars]",
+      "type": "tech news"
     },
     {
       "source": {
@@ -261,295 +421,218 @@
       "url": "https://gizmodo.com/google-is-operating-an-ad-tech-monopoly-judge-rules-2000590754",
       "urlToImage": "https://gizmodo.com/app/uploads/2024/11/google-logo.jpg",
       "publishedAt": "2025-04-17T17:55:42Z",
-      "content": "Google is starting to have a monopoly on getting called out for having a monopoly. For the second time in under one year, the tech giant has been deemed to be operating an illegal monopoly, this time… [+3626 chars]"
+      "content": "Google is starting to have a monopoly on getting called out for having a monopoly. For the second time in under one year, the tech giant has been deemed to be operating an illegal monopoly, this time… [+3626 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Lucas Ropek",
-      "title": "Robinhood Debuts New Service to Deliver Cash to Your House, Because That Seems Good, Right?",
-      "description": "It's unclear what kind of security the Uber-like cash delivery service will have.",
-      "url": "https://gizmodo.com/robinhood-debuts-new-service-to-deliver-cash-to-your-house-because-that-seems-good-right-2000581809",
-      "urlToImage": "https://gizmodo.com/app/uploads/2021/07/936974042f6572a4854dad8ba1f6df21.jpg",
-      "publishedAt": "2025-03-28T16:00:17Z",
-      "content": "Robinhood, the online financial services company, has rolled out a number of new perks for its elite members. Among them is one particular program that might give the cautious consumer pause: a deliv… [+3081 chars]"
+      "author": "Andrew Liszewski",
+      "title": "Apple says it’ll use Apple Maps Look Around photos to train AI",
+      "description": "Sometime earlier this month, Apple updated a section of its website that discloses how it collects and uses imagery for Apple Maps’ Look Around feature, which is similar to Google Maps’ Street View, as spotted by 9to5Mac. A newly added paragraph reveals that,…",
+      "url": "https://www.theverge.com/news/635316/apple-maps-look-around-photos-apple-intelligence-training",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23973407/Screen_Shot_2022_08_25_at_8.04.30_PM.png?quality=90&strip=all&crop=0%2C6.4223280998251%2C100%2C87.15534380035&w=1200",
+      "publishedAt": "2025-03-25T15:23:21Z",
+      "content": "Starting in March 2025, Apple will use blurred imagery captured during Apple Maps surveys to improve other services.\r\nStarting in March 2025, Apple will use blurred imagery captured during Apple Maps… [+1511 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Ed Cara",
-      "title": "Report: Feds Put Notorious Anti-Vaxxer in Charge of Autism Study",
-      "description": "David Geier and his father Mark Geier have a long track record of misrepresenting the science on vaccine safety.",
-      "url": "https://gizmodo.com/report-feds-put-notorious-anti-vaxxer-in-charge-of-autism-study-2000580989",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/HHS.jpg",
-      "publishedAt": "2025-03-26T20:55:25Z",
-      "content": "The wolves have firmly taken charge of the henhouse. The federal government has reportedly chosen David Geier, a notorious vaccine skeptic, to lead its upcoming study examining an already debunked li… [+3409 chars]"
+      "author": "Tom Warren, Jess Weatherbed",
+      "title": "The EU isn’t happy with Apple’s tax on alternative app stores",
+      "description": "The European Commission has just issued its first Digital Markets Act (DMA) fines to Apple and Meta, and now it’s telling Apple that it’s not impressed with the company’s approach to alternative app stores. The DMA originally forced Apple to begrudgingly allo…",
+      "url": "https://www.theverge.com/news/636196/apple-eu-dma-probe-alternative-app-stores-tax",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_G-1.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2025-04-23T11:30:48Z",
+      "content": "The European Commission has also closed its investigation into the iPhones browser choice screen.\r\nThe European Commission has also closed its investigation into the iPhones browser choice screen.\r\nT… [+2572 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Kyle Barr",
-      "title": "TVs That Look Like Picture Frames Are Getting More Popular (and Cheaper)",
-      "description": "Hisense now has a 85-inch Canvas TV to take on Samsung’s gigantic The Frame and TCL's NXTVision Pro.",
-      "url": "https://gizmodo.com/tvs-that-look-like-picture-frames-are-getting-more-popular-and-cheaper-2000580502",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Hisense-85-inch-Canvas-TV-Hero2.jpg",
-      "publishedAt": "2025-03-25T18:45:21Z",
-      "content": "Those who like big TVs but also hate the look of a ginormous display jutting from their wall are getting more choices for hiding their screen fixation. Hisense, known for making quality, budget-end T… [+2987 chars]"
+      "author": "Chris Welch",
+      "title": "Apple stumbles with latest AirPods Max firmware",
+      "description": "Last week, Apple announced that lossless audio and ultra low latency would be coming to the AirPods Max with USB-C. It was a pleasant surprise for owners of Apple’s over-ear headphones, which have fallen behind the AirPods Pro in recent years when it comes to…",
+      "url": "https://www.theverge.com/news/642140/apple-airpods-max-lossless-audio-update-delay",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24775818/DSCF2505_Enhanced_NR.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-02T20:45:54Z",
+      "content": "Lossless audio and ultra low latency are still MIA after the release of iOS 18.4.\r\nLossless audio and ultra low latency are still MIA after the release of iOS 18.4.\r\nLast week, Apple announced that l… [+1786 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Isaac Schultz",
-      "title": "China Plans Ambitious Nuclear Fusion Target For 2030",
-      "description": "A multibillion-dollar project is set to be constructed in China, the country's latest move in a push for nuclear energy.",
-      "url": "https://gizmodo.com/china-plans-ambitious-nuclear-fusion-target-for-2030-2000581521",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/EAST-tokamak.jpg",
-      "publishedAt": "2025-03-27T16:25:42Z",
-      "content": "China has set its sights on a new fusion-fission power plant that could be up and running by the end of the decade.\r\nThe reactor is called Xinghuo; it will reportedly cost $27.6 billion and will be b… [+3233 chars]"
+      "author": "Todd Haselton",
+      "title": "Apple has its biggest stock drop in five years because of Trump’s tariffs",
+      "description": "Shares of Apple, Amazon, and other tech stocks are getting walloped on Thursday as the markets digest the impact of President Donald Trump’s new round of tariffs announced on Wednesday evening. Shares of Apple were down about 9 percent on Thursday morning, wh…",
+      "url": "https://www.theverge.com/news/642598/apple-stock-trump-tariffs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-03T14:38:12Z",
+      "content": "Amazon and Meta shares are down about 7 percent.\r\nAmazon and Meta shares are down about 7 percent.\r\nShares of Apple, Amazon, and other tech stocks are getting walloped on Thursday as the markets dige… [+1268 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "AJ Dellinger",
-      "title": "An AI-Powered Alternate Universe Where MAGA Figures Own Libs Is Thriving on YouTube",
-      "description": "The slop is monetized, too.",
-      "url": "https://gizmodo.com/an-ai-powered-alternate-universe-where-maga-figures-own-libs-is-thriving-on-youtube-2000588221",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/youtube-on-a-phone-e1740147209205.jpg",
-      "publishedAt": "2025-04-11T18:50:21Z",
-      "content": "If it feels like people are living in their own universes sometimes, it’s not that far from the truth. A new report from Mother Jones digs up the surprisingly populated world of pro-MAGA, AI-generate… [+3416 chars]"
+      "author": "Umar Shakir",
+      "title": "Apple quickly shipped 600 tons of iPhones to ‘beat’ the new tariffs",
+      "description": "Apple airshipped 600 tons of iPhones to the US from India before new US tariffs were scheduled to take effect, as reported by Reuters and The Times of India. Meanwhile, Nikkei Asia reports Apple, Dell, Microsoft, and Lenovo were pressing to ship as many “prem…",
+      "url": "https://www.theverge.com/news/646666/iphones-india-shipments-tariffs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2303-Enhanced-NR_7473e7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-10T17:24:21Z",
+      "content": "Even with tariffs paused, the new rate hikes are reportedly testing tech supply chains around the world.\r\nEven with tariffs paused, the new rate hikes are reportedly testing tech supply chains around… [+1478 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Thomas Maxwell",
-      "title": "Wikipedia Is Making a Dataset for Training AI Because It’s Overwhelmed by Bots",
-      "description": "The company wants developers to stop straining its website, so it created a cache of Wikipedia pages formatted specifically for developers.",
-      "url": "https://gizmodo.com/wikipedia-is-making-a-dataset-for-training-ai-because-its-overwhelmed-by-bots-2000590704",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/WikiHed.jpg",
-      "publishedAt": "2025-04-17T16:15:35Z",
-      "content": "It seems that AI developers have essentially blackmailed Wikipedia into offering up its data for training. On Wednesday, the Wikimedia Foundation announced it is partnering with Google-owned Kagglea … [+2898 chars]"
+      "author": "Todd Haselton",
+      "title": "Apple has its biggest stock drop in five years because of Trump’s tariffs",
+      "description": "Shares of Apple, Amazon and other tech stocks are getting walloped on Thursday as the markets digest the impact of Trump’s new round of tariffs announced on Wednesday evening. Shares of Apple were down about 9 percent on Thursday morning, which would mark the…",
+      "url": "https://www.theverge.com/news/642598/apple-amazon-microsoft-and-other-tech-stocks-are-getting-walloped-by-trumps-tariffs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-03T14:13:00Z",
+      "content": "Amazon and Meta shares are down about 7 percent.\r\nAmazon and Meta shares are down about 7 percent.\r\nShares of Apple, Amazon, and other tech stocks are getting walloped on Thursday as the markets dige… [+1268 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Lucas Ropek",
-      "title": "T-Mobile Bug Reveals Names, Images, and Locations of Random Children",
-      "description": "The company claims the issue has been fully resolved.",
-      "url": "https://gizmodo.com/t-mobile-bug-reveals-names-images-and-locations-of-random-children-2000584451",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/T-Mobile.jpg",
-      "publishedAt": "2025-04-03T12:25:07Z",
-      "content": "T-Mobile sells a little-known GPS service called SyncUP, which allows users who are parents to monitor the locations of their children. This week, an apparent glitch in the service’s system obscured … [+2701 chars]"
+      "author": "Sheena Vasani",
+      "title": "You can grab three months of Apple TV Plus for $2.99 a month right now",
+      "description": "Curious what all the fuss over shows like Severance and The Studio is about? If you’re interested in streaming either, new and eligible returning subscribers can sign up for Apple TV Plus through April 24th for just $2.99 a month for the first three months. A…",
+      "url": "https://www.theverge.com/tech/645569/apple-tv-plus-streaming-deal-severance-silo-studio-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25798074/Severance_Photo_020103.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-08T23:22:52Z",
+      "content": "The limited time promo is available to both new and eligible returning subscribers.\r\nThe limited time promo is available to both new and eligible returning subscribers.\r\nCurious what all the fuss ove… [+1232 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Margherita Bassi",
-      "title": "3D Scan of Titanic Wreck Uncovers Heroic Sacrifices During Ship’s Final Moments",
-      "description": "A shattered porthole, likely smashed by the iceberg, is one of several haunting new details uncovered in a fresh look at Titanic’s 3D scans.",
-      "url": "https://gizmodo.com/3d-scan-of-titanic-wreck-uncovers-heroic-sacrifices-during-ships-final-moments-2000586568",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Titanic-scan.jpg",
-      "publishedAt": "2025-04-08T18:25:24Z",
-      "content": "In 2022, the deep-sea mapping company Magellan deployed two remotely operated vehicles 12,500 feet (3,800 meters) beneath the Atlantic Ocean to capture around 715,000 photos of the Titanic. As Gizmod… [+3528 chars]"
+      "author": "Wes Davis",
+      "title": "Google, Apple, and Snap aren’t happy about Meta’s poorly-redacted slides",
+      "description": "During Meta’s antitrust trial today, lawyers representing Apple, Google, and Snap each expressed irritation with Meta over the slides it presented on Monday that The Verge found to contain easy-to-remove redactions. Attorneys for both Apple and Snap called th…",
+      "url": "https://www.theverge.com/news/649834/meta-redactions-apple-google-snap-angry-ftc-antitrust-trial",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-16T18:18:33Z",
+      "content": "An Apple attorney called the inadvertent disclosures from Metas antitrust trial egregious.\r\nAn Apple attorney called the inadvertent disclosures from Metas antitrust trial egregious.\r\nDuring Metas an… [+2421 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Matthew Gault",
-      "title": "The Gizmodo Guide to Stopping Algorithms From Ruining Your Life",
-      "description": "To be free, learn to embrace RSS feeds.",
-      "url": "https://gizmodo.com/the-gizmodo-guide-to-stopping-algorithms-from-ruining-your-life-2000584899",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/DoomScroll.jpg",
-      "publishedAt": "2025-04-07T12:10:10Z",
-      "content": "The internet isnt rotting your brain. Algorithm-driven doomscrolling is rotting your brain.\r\nTo be online in 2025 is to be miserable. A lot of that is the current state of the world, to be fair, but … [+7701 chars]"
-    },
-
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Sabina Graves",
-      "title": "10 Things We Learned About the Star Trek: Red Alert Experience at Universal Fan Fest Nights",
-      "description": "You can tour the Enterprise-D in a new after-dark experience at Universal Studios Hollywood starting April 25.",
-      "url": "https://gizmodo.com/10-things-we-learned-about-the-star-trek-red-alert-experience-at-universal-fan-fest-nights-2000589795",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Star-Trek-Red-Alert-Universal-Fan-Fest-Nights-io9-Gizmodo.jpg",
-      "publishedAt": "2025-04-16T16:00:31Z",
-      "content": "io9 recently went on a behind-the-scenes tour of Universal Studios Hollywood’sFan Fest Nights to get an early glimpse at its immersive attractions. One of the headliners we’re most excited about is S… [+8587 chars]"
+      "author": "Chris Welch",
+      "title": "Apple’s AirPods Max with USB-C will soon support lossless audio",
+      "description": "Apple is bringing higher-fidelity audio to its AirPods Max headphones in April, the company announced today. When the $549 headphones switched to a USB-C connector last year, they lost support for wired audio playback — but it seems like Apple is about to rec…",
+      "url": "https://www.theverge.com/news/634506/apple-airpods-max-lossless-audio-low-latency-usb-c",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24755232/DSCF1978_Enhanced_NR.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-03-24T13:18:11Z",
+      "content": "A new firmware update coming in April will also include ultra low-latency for the $549 headphones.\r\nA new firmware update coming in April will also include ultra low-latency for the $549 headphones.\r… [+1175 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Kyle Barr",
-      "title": "Nintendo’s ‘Virtual Game Cards’ Show How You Might Port Your Switch Library to Switch 2",
-      "description": "Plus, Nintendo has a new app where you can nab all the news for Switch 2 right when it happens.",
-      "url": "https://gizmodo.com/nintendos-virtual-game-cards-show-how-you-might-port-your-switch-library-to-switch-2-2000581584",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Nintendo-Virtual-Game-Cards-4.jpg",
-      "publishedAt": "2025-03-27T16:11:05Z",
-      "content": "Nintendo cant get enough of cartridges. Even its digital downloads are turning into Virtual Game Cards on the Nintendo Switch. After an April update, each game you own digitally will become its own i… [+3700 chars]"
+      "author": "David Pierce",
+      "title": "Apple TV Plus is on a hot streak",
+      "description": "Hi, friends! Welcome to Installer No. 77, your guide to the best and Verge-iest stuff in the world. (If youâre new here, welcome, donât forget to make your Venmo private, and also you can read all the old editions at the Installer homepage.) This week, Iâ…",
+      "url": "https://www.theverge.com/installer-newsletter/638592/the-studio-apple-tv-plus-installer",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Installer-77.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+      "publishedAt": "2025-03-29T01:01:11Z",
+      "content": "Plus, in this weeks Installer: a Bluetooth dongle, the AI tool everyones into, a big British game to play, and more.\r\nPlus, in this weeks Installer: a Bluetooth dongle, the AI tool everyones into, a … [+9808 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Ed Cara",
-      "title": "23andMe’s Meltdown Was Inevitable—and Deserved",
-      "description": "There's only so much you can learn from a consumer DNA test, and most people simply don't need one.",
-      "url": "https://gizmodo.com/23andmes-meltdown-was-inevitable-and-deserved-2000580301",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/The-23andMe-Logo-in-Mountain-View-California.jpg",
-      "publishedAt": "2025-03-25T18:10:01Z",
-      "content": "The DNA testing company 23andMe is circling the drain, and it’s about damn time.\r\nEarlier this week, 23andMe officially filed for Chapter 11 bankruptcy just as its CEO Anne Wojcicki stepped down from… [+5461 chars]"
+      "author": "Dominic Preston",
+      "title": "Android Auto’s latest beta brings full Android game support",
+      "description": "Google is adding gaming support to Android Auto, with titles including Candy Crush Soda Saga and Angry Birds 2 playable from compatible cars’ touchscreens. The new feature is included in the beta version of Android 14.1, which is rolling out to testers now. O…",
+      "url": "https://www.theverge.com/news/638059/android-auto-14-1-beta-game-support",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Android-Auto.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "publishedAt": "2025-03-28T10:56:20Z",
+      "content": "The beta version of Android Auto 14.1 adds support for a selection of Android games and a new fullscreen mode.\r\nThe beta version of Android Auto 14.1 adds support for a selection of Android games and… [+1417 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Kyle Barr",
-      "title": "Even Your Vacuum Has a Screen in Samsung’s Smart Home World",
-      "description": "Samsung envisions an AI-filled home that does all the hard stuff for you, but AI won't be there to fix your dishwasher that will inevitably break down.",
-      "url": "https://gizmodo.com/even-your-vacuum-has-a-screen-in-samsungs-smart-home-world-2000582774",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Bespoke-Jet-Ultra-Lifestyle-Hero-1.jpg",
-      "publishedAt": "2025-03-31T16:28:35Z",
-      "content": "The less time you spend fussing over your appliances, the better. Samsung, on the other hand, would rather users pay even more attention to its devices, especially the companys new vacuum cleaner wit… [+4370 chars]"
+      "author": "Julian Chokkattu",
+      "title": "Google Pixel 9a Review: Still the Best Smartphone",
+      "description": "It might not look like a classic Pixel phone anymore, but this Android is still the best smartphone bargain.",
+      "url": "https://www.wired.com/review/google-pixel-9a/",
+      "urlToImage": "https://media.wired.com/photos/67f718945c48f9cdda473588/191:100/w_1280,c_limit/Google's-Pixel-9a_042025_Lede.jpg",
+      "publishedAt": "2025-04-10T13:00:00Z",
+      "content": "Google is employing the same top-end Tensor G4 processor as the Pixel 9 series, though you get only 8 gigabytes of RAM versus 12 on the Pixel 9 and 16 on the Pixel 9 Pro. For the most part, performan… [+2862 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Isaac Schultz",
-      "title": "AI Experts Say We’re on the Wrong Path to Achieving Human-Like AI",
-      "description": "An extensive report on the future of AI research indicated that there's skepticism about current approaches to AGI.",
-      "url": "https://gizmodo.com/ai-experts-say-were-on-the-wrong-path-to-achieving-human-like-ai-2000581717",
-      "urlToImage": "https://gizmodo.com/app/uploads/2022/09/b76e13c49c200a5246700bd2be8c9939-e1743106723828.jpg",
-      "publishedAt": "2025-03-30T12:00:33Z",
-      "content": "According to a panel of hundreds of artificial intelligence researchers, the field is currently pursuing artificial general intelligence the wrong way.\r\nThis insight was revealed at the Association f… [+4217 chars]"
+      "author": "Jess Weatherbed",
+      "title": "Android phones will soon reboot if they’re locked for a few days",
+      "description": "Android is launching a new security feature that will force devices to reboot themselves if you haven’t unlocked them for a while, making it harder for other people to access the data inside. The feature included in the latest Google Play services update says…",
+      "url": "https://www.theverge.com/news/648757/google-android-update-automatic-reboot-phone-locked",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-15T11:43:17Z",
+      "content": "Devices will require users to enter their PIN after three days of inactivity.\r\nDevices will require users to enter their PIN after three days of inactivity.\r\nAndroid is launching a new security featu… [+1389 chars]",
+      "type": "tech news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Lucas Ropek",
-      "title": "The FBI Hijacked and Ran a Dark Web Money Laundering Operation Called ‘ElonmuskWHM’",
-      "description": "A high-level honeypotting operation by the federal government has been uncovered.",
-      "url": "https://gizmodo.com/the-fbi-hijacked-and-ran-a-dark-web-money-laundering-operation-called-elonmuskwhm-2000586515",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Elon-Musk-sign.jpg",
-      "publishedAt": "2025-04-08T19:50:17Z",
-      "content": "The FBI has long been known for infiltrating criminal gangs in order to bring them down. However, the bureau has increasingly sought to infiltrate the murky world of cybercrime, using its agents to e… [+4326 chars]"
+      "author": "Dominic Preston",
+      "title": "Samsung resumes its troubled One UI 7 rollout",
+      "description": "Samsung is once again deploying its One UI 7 update to last year’s flagship Galaxy phones, with users worldwide reporting availability. The Android 15 update had begun rolling out earlier this month, only to pause for a week while Samsung rushed to patch a cr…",
+      "url": "https://www.theverge.com/news/654129/samsung-one-ui-7-rollout-resumes-globally",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25253489/DSC06508.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "publishedAt": "2025-04-23T10:17:33Z",
+      "content": "After hitting pause last week, Samsung is pushing out its update to Android 15 once more.\r\nAfter hitting pause last week, Samsung is pushing out its update to Android 15 once more.\r\nSamsung is once a… [+1492 chars]",
+      "type": "android news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Isaac Schultz",
-      "title": "What to Know about the ‘Qudit’—and How It Could Change Quantum Computing",
-      "description": "The rabbit hole of quantum gets weirder the deeper you go—but also has plenty of promise.",
-      "url": "https://gizmodo.com/what-to-know-about-the-qudit-and-how-it-could-change-quantum-computing-2000582957",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/qudit-illo.jpg",
-      "publishedAt": "2025-04-01T11:00:02Z",
-      "content": "You might be familiar with the qubit, the fundamental unit of quantum information. As its name suggests, a qubit in a quantum computer performs the same function as a bit in a classical computer, wit… [+9407 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ed Cara",
-      "title": "Do You Need a Measles Booster Shot? The Answer May Surprise You",
-      "description": "Most vaccinated people should still be highly protected against measles, but there are important exceptions.",
-      "url": "https://gizmodo.com/do-you-need-a-measles-booster-shot-the-answer-may-surprise-you-2000584301",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/MMR.jpg",
-      "publishedAt": "2025-04-03T16:30:30Z",
-      "content": "Measles has been making an unwelcome comeback in the U.S. and world lately. Its resurgence might be enough to make many of us reasonably wonder: Just how protected am I from measles? And should I thi… [+5839 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "AJ Dellinger",
-      "title": "Internet Cesspool 4chan Is Down After Alleged Hack, Rival Forum Users Claim Credit",
-      "description": "Stolen data, proportedly from 4chan, was shared on soyjack.party.",
-      "url": "https://gizmodo.com/internet-cesspool-4chan-is-down-after-alleged-hack-rival-forum-users-claim-credit-2000589582",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/GettyImages-1814351886.jpg",
-      "publishedAt": "2025-04-15T18:10:46Z",
-      "content": "4chan has apparently fallen. The notorious image board that has been the origin of some of the best and absolute worst things that the internet has to offer allegedly fell victim to a hack that has l… [+4079 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Matt Novak",
-      "title": "Bluesky Launches User Verification After Initial Skepticism of Checkmarks",
-      "description": "Elon Musk ruined verification on Twitter, but Bluesky hopes to get it right.",
-      "url": "https://gizmodo.com/bluesky-launches-user-verification-after-initial-skepticism-of-checkmarks-2000592184",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/bluesky-investor-mistake.jpg",
-      "publishedAt": "2025-04-21T18:30:24Z",
-      "content": "Bluesky has long resisted creating a checkmark verification system to combat impersonation and fraud. But that all changed Monday when the social media company officially announced it was rolling out… [+4748 chars]"
-    },
-
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Kyle Barr",
-      "title": "This Big Controller Lets You Relive Arcade Gaming’s Glory Days in VR",
-      "description": "X-Arcade’s Arcade2TV-XR may work as a fighting stick for PC or console, or it can save you from clogging your living room with cabinets.",
-      "url": "https://gizmodo.com/this-big-controller-lets-you-relive-arcade-gamings-glory-days-in-vr-2000582376",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/X-Arcade-Hero.jpg",
-      "publishedAt": "2025-03-31T17:45:04Z",
-      "content": "Once, in the distant past, gamers stood upright in front of the glowing arcade cabinet, legs splayed like a bipod for support. They would play with faces three inches away from the cabinets CRT scree… [+5502 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ray Wong",
-      "title": "The iPhone 17 Pro Might Come in Yet Another Shade of Blue, When Other Colors Exist",
-      "description": "Apple should really \"Think Different\" when it comes to new iPhone Pro colors.",
-      "url": "https://gizmodo.com/the-iphone-17-pro-might-come-in-yet-another-shade-of-blue-when-other-colors-exist-2000592835",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/iphone13pro.jpg",
-      "publishedAt": "2025-04-22T18:20:48Z",
-      "content": "Besides a massive camera bump, this year’s iPhone 17 Pro will reportedly come in a sky blue, according to MajinBu, a prolific leaker who has previously shared accurate information on Apple products p… [+2048 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Passant Rabie",
-      "title": "Keeping Voyager Alive: NASA’s Project Scientist Faces Painful Choices as the Iconic Mission Nears Its End",
-      "description": "\"It's kind of like losing a best friend.\"",
-      "url": "https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/1_Voyager_artist_concept.jpg",
-      "publishedAt": "2025-04-05T10:00:55Z",
-      "content": "In 1977, two probes launched less than a month apart on a mission to the great beyond. The twin Voyager spacecraft were to travel where no other mission had gone before, exploring what lies outside t… [+15333 chars]"
+      "author": "David Nield",
+      "title": "How to set up Wi-Fi calling on Android and iPhones",
+      "description": "How’s that 5G rollout going in your area? Even in 2025, there’s no guarantee you’re going to be able to get reliable cell service everywhere you go, especially if you happen to live somewhere that’s especially crowded or remote â or if you work in your comp…",
+      "url": "https://www.theverge.com/how-to/640036/wi-fi-calling-android-iphone-how-to",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/226053_internetDead.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-03-31T21:09:43Z",
+      "content": "Use your Wi-Fi connection when cell coverage is less than ideal.\r\nUse your Wi-Fi connection when cell coverage is less than ideal.\r\nHows that 5G rollout going in your area? Even in 2025, theres no gu… [+4336 chars]",
+      "type": "android news"
     },
     {
       "source": {
@@ -557,77 +640,42 @@
         "name": "Gizmodo.com"
       },
       "author": "Florence Ion",
-      "title": "The Google Pixel 9a Is One of the Best Deals in Smartphones",
-      "description": "With affordable phones like this, who needs flagships? The Pixel 9a is all the essentials (and AI) packed into a friendlier price point.",
-      "url": "https://gizmodo.com/the-google-pixel-9a-is-one-of-the-best-deals-in-smartphones-2000587378",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Google-Pixel-9a-Hero.jpg",
-      "publishedAt": "2025-04-10T13:00:20Z",
-      "content": "Every year, Google’s Pixel A-series reminds me that I did not have to pay all that cash for the Pro variant to live a good life. The Pixel 9a may have been delayed coming out of the gate, but it rema… [+9503 chars]"
+      "title": "Samsung Is Running Way Behind on Its Android 15 Update",
+      "description": "The company had to stop the update because of bugs right as Android 16 creeps around the corner.",
+      "url": "https://gizmodo.com/samsung-is-running-way-behind-on-its-android-15-update-2000589295",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Samsung-Galaxy-S25-One-UI_Hero.jpg",
+      "publishedAt": "2025-04-15T12:50:16Z",
+      "content": "Samsung’s One UI 7, the next version of its mobile operating system based on Android 15, has been delayed for several of the company’s latest flagship devices, namely 2024’s Galaxy S24 series, the Z … [+2487 chars]",
+      "type": "android news"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Kyle Barr",
-      "title": "Philips Hue Self-Leaks Upcoming Smart Doorbell That Sadly Doesn’t Change Color",
-      "description": "Why can't our Philips Hue exterior lights be as fun as our interior ones?",
-      "url": "https://gizmodo.com/philips-hue-self-leaks-upcoming-smart-doorbell-that-sadly-doesnt-change-color-2000579723",
-      "urlToImage": "https://gizmodo.com/app/uploads/2023/08/cdead11f344f31ca93dad5dd9a74a0d8-e1742823677715.jpg",
-      "publishedAt": "2025-03-24T14:15:48Z",
-      "content": "Like its previous surveillance cameras, Philips Hues next smart home product isnt changing colors or brightening the waning light of smart home tech. Instead, the company may be looking a little red … [+2113 chars]"
+      "author": "Wes Davis",
+      "title": "Google must stop favoring Search and Chrome on Android in Japan",
+      "description": "Japan’s Fair Trade Commission (JFTC)  has ordered Google to stop making deals that give preference to Google Search and Chrome on Android devices. Nikkei Asia says that it’s the first time the regulator has issued a cease and desist order to a major tech comp…",
+      "url": "https://www.theverge.com/news/648996/google-antitrust-japan-order-google-search-android-chrome",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK114_CHROME.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-15T16:44:41Z",
+      "content": "Japan passed legislation last year that has similarities to the EUs Digital Markets Act.\r\nJapan passed legislation last year that has similarities to the EUs Digital Markets Act.\r\nJapans Fair Trade C… [+1577 chars]",
+      "type": "android news"
     },
+
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Lucas Ropek",
-      "title": "iPads and Fendi Handbags Among $200k of Stolen Packages Found in UPS Driver’s Home",
-      "description": "If you live in south Texas and are missing an iPad you might want to read this story.",
-      "url": "https://gizmodo.com/ipads-and-fendi-handbags-among-200k-of-stolen-packages-found-in-ups-drivers-home-2000581702",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Screenshot-2025-03-27-at-11.35.48-AM.jpg",
-      "publishedAt": "2025-03-27T19:11:37Z",
-      "content": "A Texas UPS driver is accused of stealing a massive haul of luxury goods and tech items from the packages intended for local residents.\r\nA press release from the office of Cameron County District Att… [+2066 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Alex Cranz",
-      "title": "The Nintendo Switch 2 Is Nice, and Its Mouse Gaming Mode Is Even Nicer",
-      "description": "Mouse gaming is back on consoles, baby.",
-      "url": "https://gizmodo.com/the-nintendo-switch-2-is-nice-and-its-mouse-gaming-mode-is-even-nicer-2000583719",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/nintendo-switch-2-mouse-gaming.jpg",
-      "publishedAt": "2025-04-03T13:00:55Z",
-      "content": "The Nintendo Switch 2 is finally here. The successor to one of the most innovative and popular consoles of all time is taller, heavier, and loaded with even more fun little bits that make the gadget … [+3803 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Isaac Schultz",
-      "title": "A Double Sunblast Could Mean Auroras Over the U.S. This Week",
-      "description": "An uncommon double solar eruption has sent two coronal mass ejections towards Earth, which are expected to arrive Wednesday.",
-      "url": "https://gizmodo.com/a-double-sunblast-could-mean-auroras-over-the-u-s-this-week-2000589069",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/x9-solar-flare-sun-2024.jpg",
-      "publishedAt": "2025-04-14T19:20:37Z",
-      "content": "According to the experts at NOAAs Space Weather Prediction Center, two coronal mass ejections (CMEs) are en route to Earth, and they could be bringing a glowing gift: a potential auroral display reac… [+1882 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Jorge Jimenez",
-      "title": "Aurzen Zip Review: a Big Idea, but a Tiny Disappointment",
-      "description": "The Aurzen Zip is the smallest projector's I've ever used, it's also the weakest.",
-      "url": "https://gizmodo.com/aurzen-zip-review-a-big-idea-but-a-tiny-disappointment-2000574328",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Aurzen-Zip-Portable-Projector-01-2.jpg",
-      "publishedAt": "2025-04-04T20:08:43Z",
-      "content": "I first saw the Aurzen Zip and I immediately said, I want one. It’s a projector and it is small enough to fit into your back pocket, letting you turn any nearby wall into a second screen. No wires or… [+4620 chars]"
+      "author": "Jay Peters",
+      "title": "Google is fixing outdated Pixel weather forecasts",
+      "description": "Some Google Pixel users have found that their At a Glance widget has been showing outdated weather forecasts, as reported by Android Police. But the company says in a statement to The Verge that it’s addressing the issue. According to one user on Reddit who h…",
+      "url": "https://www.theverge.com/news/641127/google-pixel-weather-forecasts-bug",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DSC08087.jpg.webp?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
+      "publishedAt": "2025-04-01T22:20:45Z",
+      "content": "If your At a Glance widget was showing old forecasts, you werent alone.\r\nIf your At a Glance widget was showing old forecasts, you werent alone.\r\nSome Google Pixel users have found that their At a Gl… [+913 chars]",
+      "type": "android news"
     }
   ]
 }

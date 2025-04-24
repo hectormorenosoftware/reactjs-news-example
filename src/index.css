@@ -71,10 +71,11 @@ a {
 }
 
 .new-flex-box {
-  position: absolute;
   width: 100%;
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
   color: white;
 }
 
@@ -155,7 +156,6 @@ a {
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 40px;
   justify-items: center;
-  margin-top: 8rem;
 }
 
 @media (max-width: 1060px) {
@@ -168,4 +168,14 @@ a {
   .CardGroup {
     grid-template-columns: repeat(1, 1fr);
   }
+}
+
+.searchForDataInputBar {
+  width: 350px;
+  height: 28px;
+  border: 1px solid black;
+  border-radius: 18px;
+  font-size: 15px;
+  font-weight: 250;
+  font-family: "Catamaran";
 }
