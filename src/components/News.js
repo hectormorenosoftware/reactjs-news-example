@@ -3,7 +3,7 @@ import { withRouter } from "react-router-dom";
 
 import Card from "./Card";
 import data from "../data.json";
-import MSNBCNEWSLOGO from "../images/msnbcnewslogo.png";
+import GoogleNewsLogo from "../images/googlenews.png";
 
 class News extends React.PureComponent {
   constructor(props) {
@@ -46,8 +46,8 @@ class News extends React.PureComponent {
       <div>
         <div className="new-flex-box">
           <img
-            src={MSNBCNEWSLOGO}
-            style={{ width: "170px", height: "120px" }}
+            src={GoogleNewsLogo}
+            style={{ width: "325px", height: "100px" }}
           />
           <input
             className="searchForDataInputBar"
